@@ -1,0 +1,6 @@
+D:\VS\C#\ServerClientApp\Server\Client\Client\bin\Debug\Client.exe.config
+D:\VS\C#\ServerClientApp\Server\Client\Client\bin\Debug\Client.exe
+D:\VS\C#\ServerClientApp\Server\Client\Client\bin\Debug\Client.pdb
+D:\VS\C#\ServerClientApp\Server\Client\Client\obj\Debug\Client.exe
+D:\VS\C#\ServerClientApp\Server\Client\Client\obj\Debug\Client.pdb
+D:\VS\C#\ServerClientApp\Server\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
